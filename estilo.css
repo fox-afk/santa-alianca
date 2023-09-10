@@ -5,7 +5,6 @@
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: black;
 }
 header{
     width: 100%;
@@ -43,4 +42,17 @@ header{
     text-transform:uppercase ;
     background-color: rgb(255, 255, 255);
     padding: 10px 25px;
+}
+/*fim do cabeçalho */
+.boas-vindas{
+    text-align:  center;
+}
+.foto{
+    width: 700px;
+    height: 400px;
+}
+.centro{
+    padding-left: 419px;
+    border:  2px solid black;
+    background-color: black;
 }
