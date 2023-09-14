@@ -14,5 +14,10 @@ body{
     margin-left:255px ;
 }
 
-
-
+.local{
+        border: 2px red solid;
+        padding-left: 340px;
+        width: auto;
+        height: auto;
+  
+}
