@@ -5,66 +5,14 @@
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-header{
-    width: 100%;
-    background-color:white ;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 20px 0;
-}
-.logo-imagem{
-    width: 50px;
-    height: 50px;
     background-color: white;
-    border-radius: 25px;
-   }
+}
+.fronte{
+    
+    height: 500px;
+    width: 850px;
+    margin-left:255px ;
+}
 
-.container-logo{
-    display: flex;
-    align-items: center;
-}
-/* texto*/
-.logo-texto{
-    margin-left: 10px;
-    color: black;
-   
-}/* texto*/
-.menu li{
-    margin: 0 10px;
-    display:  inline-block;
-}
-.menu li a {
-    font-size: 24px;
-    text-decoration: none;
-    color: black;
-    text-transform:uppercase ;
-    background-color: rgb(255, 255, 255);
-    padding: 10px 25px;
-}
-/*fim do cabeçalho */
-.boas-vindas{
-    text-align:  center;
-}
-.foto{
-    width: 700px;
-    height: 400px;
-}
-.centro{
-    padding-left: 419px;
-    border:  2px solid black;
-    background-color: black;
-}
-.link{
-    text-decoration: none;
-    color:black;
-    display: inline-block;
-    border: 4px white solid;
-    border-radius: 5px;
-    justify-content: space-around;    
-    font-size: 18px;
-}
-.pe{
-    background-color: salmon;
-}
+
+

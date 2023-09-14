@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="20.594485"
+     inkscape:cx="6.1181428"
+     inkscape:cy="9.2500492"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="55"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="fundo">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.099097"
+       id="rect1"
+       width="15.829482"
+       height="15.97515"
+       x="0.048556685"
+       y="0.048556689" />
+  </g>
+  <g
+     inkscape:label="frente"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2"
+       transform="matrix(0.01276617,0,0,0.01276617,-0.21667853,3.5279223)">
+      <path
+         style="display:inline;fill:#8b4513;fill-opacity:1;stroke:#000000;stroke-width:2.28628"
+         d="m 229.97195,378.97217 2.81006,-6.34877 4.05906,-6.24451 6.76486,-7.28522 10.19931,-7.90983 17.27671,-7.59753 4.57919,-2.18568 5.62012,-3.6425 5.72416,-4.89172 5.09977,-5.09954 6.03645,-9.88723 5.2038,-13.11363 1.76958,-11.136 -0.31322,-14.25837 -2.70604,-15.29908 -2.60201,-6.66107 -8.22191,-15.92346 -32.26349,-32.26349 -9.05457,-4.37113 -15.61139,-5.5161 -16.02749,-2.39373 -11.96889,0.31322 -11.24002,2.2897 -12.73022,5.92009 -10.00246,6.87666 -8.21643,9.02028 -6.96605,12.59236 -5.89425,13.12826 -7.87074,11.37835 -10.86188,8.71483 -8.96723,5.17819 -7.07283,2.77874 -7.19903,1.64154 -13.640387,2.02107 -12.630081,4.16789 -9.093668,4.79935 -13.13512,10.2304 -11.114508,14.77713 -5.30462,10.60924 -3.031146,10.60901 -1.895324,11.24071 -0.379522,13.76682 3.157577,20.08174 6.314926,16.54534 8.083133,14.77712 14.903556,18.31354 17.303003,15.02975 10.356607,6.1885 14.903554,6.94662 11.61955,3.53642 9.97777,1.89532 15.15596,0.88479 15.02976,-1.76729 5.75136,-1.52266 7.05545,-2.14224 8.75209,-4.19738 10.71693,-7.14462 9.02005,-8.48437 6.07304,-7.68052 7.68029,-14.82491 2.67929,-9.46679 1.42892,-9.64511 1.42892,-6.7875 z"
+         id="path1" />
+      <path
+         style="display:inline;fill:#784421;stroke:#000000;stroke-width:2.33987;stroke-opacity:1"
+         d="m 240.99615,294.05114 138.82892,-143.21903 5.5017,3.6441 6.60208,-1.09284 2.20169,-0.72933 43.46441,-43.54878 0.9168,-5.46626 -10.82027,-28.060848 -29.15963,-11.84383 -6.23537,1.639261 -43.8309,43.184347 -1.46779,6.742 4.03459,6.92399 -145.21335,137.71071 z"
+         id="path3" />
+      <path
+         style="display:inline;fill:#28170b;stroke:none;stroke-width:2.42947"
+         d="m 79.26604,366.45251 c 0,0 7.513164,-8.59251 9.391341,-8.59251 1.87932,0 55.274409,54.77806 55.274409,54.77806 l -8.58634,9.12979 z"
+         id="path4" />
+      <path
+         style="display:inline;fill:#8b4513;fill-opacity:1;stroke:#000000;stroke-width:2.28628;stroke-opacity:1"
+         d="m 351.82183,123.19422 13.27687,13.25698 21.07673,18.06547 7.32547,-1.5158 43.6999,-43.19463 2.02107,-6.31516 -11.61978,-27.78581 -28.29108,-12.124814 -6.82019,2.021069 -43.95254,43.194635 -1.76729,6.31515 z"
+         id="path5"
+         sodipodi:nodetypes="cccccccccccc" />
+      <circle
+         style="fill:#000000;stroke:none;stroke-width:2.43539"
+         id="path2"
+         cx="210.41853"
+         cy="291.29153"
+         r="35.008621" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:1.98947px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00103619"
+       x="3.5434551"
+       y="7.4820719"
+       id="text1-0"><tspan
+         sodipodi:role="line"
+         id="tspan1-1"
+         x="3.5434551"
+         y="7.4820719"
+         style="stroke-width:0.00103619">Sant'Aliança</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;white-space:pre;inline-size:0;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1"
+       x="301.60043"
+       y="409.24261"
+       id="text1"
+       transform="matrix(0.01350386,0,0,0.01350386,-0.26557965,3.1537906)"><tspan
+         id="tspan1"
+         x="301.60043"
+         y="409.24261">Banda para Casamento | Guarulhos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:0.612774px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.00127661"
+       x="4.149024"
+       y="9.2261305"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="4.149024"
+         y="9.2261305"
+         style="stroke-width:0.00127661">+ 15 anos eternizando momentos</tspan></text>
+  </g>
+</svg>
