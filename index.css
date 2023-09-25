@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.direita-cima{
+    border: 1px solid black;
+    color: black;  
+    margin: 0px 0px 0px 0px;
+    border-radius: 5px;
+}
+.esquerda-cima{
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0px 10px 0px 0px;
+}
+.cima {
+    display: flex;
+    margin:  0px 10px 0px 0px;
+    padding: 0px 10px 10px 0px;
+}
+.esquerda{
+    display: flex;
+    padding: 0px 10px 10px 0px;
+    margin: 0px 0px 0px 0px;
+    
+
+}
+.direita-baixo{
+    border: 1px solid black;
+    color: black;
+    border-radius: 5px;
+}
+.esquerda-baixo{
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 0px 10px 0px 0px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+.tudo{
+    border: 1px red solid;
+    padding: 20px 0px 20px 550px;
+}
+/*
+padding-top
+padding-right
+padding-bottom
+padding-left
+*/
