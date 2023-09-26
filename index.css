@@ -10,48 +10,24 @@ body{
 html{
     scroll-behavior: smooth;
 }
-.direita-cima{
-    border: 1px solid black;
-    color: black;  
-    margin: 0px 0px 0px 0px;
-    border-radius: 5px;
-}
-.esquerda-cima{
-    color: black;
-    border: 1px solid black;
-    border-radius: 5px;
-    margin: 0px 10px 0px 0px;
-}
-.cima {
-    display: flex;
-    margin:  0px 10px 0px 0px;
-    padding: 0px 10px 10px 0px;
-}
-.esquerda{
-    display: flex;
-    padding: 0px 10px 10px 0px;
-    margin: 0px 0px 0px 0px;
-    
 
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
 }
-.direita-baixo{
-    border: 1px solid black;
-    color: black;
-    border-radius: 5px;
+.menu li {
+    margin: 0 10px;
+    display: inline-block;
 }
-.esquerda-baixo{
-    color: black;
-    border: 1px solid black;
-    border-radius: 5px;
-    margin: 0px 10px 0px 0px;
-}
-a {
-    color: black;
+.menu li a {
+    font-size: 20px;
     text-decoration: none;
-}
-.tudo{
-    border: 1px red solid;
-    padding: 20px 0px 20px 550px;
+    color: black;
+    text-transform:capitalize ;
+    padding: 10px 25px;
 }
 /*
 padding-top
